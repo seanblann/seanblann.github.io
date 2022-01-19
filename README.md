@@ -10,3 +10,5 @@
 * Hello World: Android application
 
 ## Links
+
+* [LinkedIn] (www.linkedin.com/in/sean-blann)
