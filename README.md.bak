@@ -5,9 +5,9 @@
 
 ## Current projects
 
-* Hello World: Java console application
+* [Hello World: Java console application](https://github.com/seanblann/hello-world-java)
 
-* Hello World: Android application
+* [Hello World: Android application](https://github.com/seanblann/hello-world-android)
 
 ## Links
 
