@@ -11,4 +11,4 @@
 
 ## Links
 
-* [LinkedIn](www.linkedin.com/in/seanpatrickblann)
+* [github](https://github.com/seanblann)
