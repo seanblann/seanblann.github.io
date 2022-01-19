@@ -1,1 +1,7 @@
-# seanblann.github.io
+# Sean Blann
+
+## Introduction
+
+## Current projects
+
+## Links
