@@ -11,4 +11,4 @@
 
 ## Links
 
-* [LinkedIn] (www.linkedin.com/in/sean-blann)
+* [LinkedIn](www.linkedin.com/in/sean-blann)
